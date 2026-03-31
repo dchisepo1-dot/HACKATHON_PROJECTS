@@ -1,7 +1,7 @@
 # HACKATHON_PROJECTS
 #SMART ONLINE HOSPITAL SYSTEM FOR PATIENTS
-This system helps Patients to access the Hospital system online, where they can book, track and know be ready in advance
-SMART Hospital Patients System
+This system helps Patients to access the Hospital system online, where they can book, track and ready in advance
+ System
 📌 Overview
 
 The SMART Hospital Patients System is a web-based application designed to reduce waiting time in hospitals by managing patient queues digitally.
